@@ -124,7 +124,7 @@ Stock-Market-Forecast/
 ## Mahi Saxena
 
 # About the Contributers
-## Kriti Dwivedi ,  Mahi Saxena , Akshay Pratap Singh , Aditya Verma , Anuj Katiyar
+## Kriti Dwivedi , Akshay Pratap Singh , Aditya Verma , Anuj Katiyar
 
 A tech enthusiast and aspiring professional in the field of High-Frequency Trading (HFT) and consultancy. Connect with me on:
 
