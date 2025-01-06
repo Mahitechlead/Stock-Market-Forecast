@@ -121,10 +121,10 @@ Stock-Market-Forecast/
 - Include additional forecasting models (e.g., LSTM, Prophet).
   
 # About the Author
-## Shaurya Srivastava
+## Mahi Saxena
 
 # About the Contributers
-## Suhani Sharma , Nitya Umrao , Vedannsh Gupta , Sheetal
+## Kriti Dwivedi ,  Mahi Saxena , Akshay Pratap Singh , Aditya Verma , Anuj Katiyar
 
 A tech enthusiast and aspiring professional in the field of High-Frequency Trading (HFT) and consultancy. Connect with me on:
 
